@@ -25,13 +25,6 @@
 
 <hr>
 
-<h3 align="left">🎶 Vibing to</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31h4yehrudhv3lyfefk63hxcnaha&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31h4yehrudhv3lyfefk63hxcnaha&redirect=true)
-
-
-<hr>
-
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/talha-polat-iyigun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talha polat i̇yigün" height="30" width="40" /></a>
