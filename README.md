@@ -1,17 +1,4 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h2 align="center">
-  Hey there, I’m Polat
-  <img
-    width="20px"
-    alt="Waving Emoji"
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-  />
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F721&center=true&vCenter=true&random=false&width=650&lines=Always+learning+new+things.;A+passionate+Front-End+developer+from+T%C3%BCrkiye.)](https://git.io/typing-svg)
-
-</h2>
-
 - 🔭 I’m currently working on: **Front-End**
 
 - 🌱 I’m currently learning: **React, Node.js**
